@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "scp002:blocks/scp002_furniture"
+  }
+}

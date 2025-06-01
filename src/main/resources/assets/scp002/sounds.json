@@ -1,0 +1,11 @@
+{
+  "scp002.whispers": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "scp002/scp002_whispers",
+        "stream": false
+      }
+    ]
+  }
+}
